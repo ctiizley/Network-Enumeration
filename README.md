@@ -21,20 +21,20 @@ Used ARP scanning to identify active devices on the local network without relyin
 <img src="https://i.imgur.com/MMvuYlC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <p align="left">
-🌐 Phase 2: Full TCP SYN Scan <br/>
+ Phase 2: Full TCP SYN Scan <br/>
 <p align="center">
 Performed a full port scan to identify open ports and detect exposed services on the target system: <br/>
 <img src="https://i.imgur.com/QpSzSGl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <p align="left">
-⚙️ Phase 3: Service Version Detection <br/>
+ Phase 3: Service Version Detection <br/>
 <p align="center">
 Enumerated active services and identified software versions running on open ports.
 <br/>
 <img src="https://i.imgur.com/54JmfQz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <p align="left">
-🖥️ Phase 4: Operating System Detection <br/>
+ Phase 4: Operating System Detection <br/>
 <p align="center">
 Estimated the operating system using TCP/IP fingerprinting based on network response behavior.
 <br/>
@@ -48,7 +48,7 @@ Estimated the operating system using TCP/IP fingerprinting based on network resp
 - <b>Detected service versions for analysis</b>
 - <b>Performed OS fingerprinting using network characteristics</b>
 
-<h2>🧠 Skills Demonstrated </h2>
+<h2> Skills Demonstrated </h2>
 
 - <b>Network discovery</b>
 - <b>Port scanning and analysis</b>
